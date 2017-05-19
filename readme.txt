@@ -1,2 +1,3 @@
 readne
 hello world
+ÄãºÃ
