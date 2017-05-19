@@ -1,4 +1,4 @@
 readne
 hello world
-ÄãºÃ
-°¥Ñ½
+ä½ å¥½
+å“Žå‘€ï¼ŒHello World!
