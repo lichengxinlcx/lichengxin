@@ -1,2 +1,5 @@
 nihao
 welcome
+sql Óï¾ä£º 
+	select count(1) from db_userinfo u 
+	where to_char(u.opertime, 'yyyyMMddhh24miss') like '20170522%' 
