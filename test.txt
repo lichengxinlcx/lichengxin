@@ -4,4 +4,3 @@ sql è¯­å¥ï¼š
 	select count(1) from db_userinfo u 
 	where to_char(u.opertime, 'yyyyMMddhh24miss') like '20170522%' 
 add branch
-³ÍÎÌ
